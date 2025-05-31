@@ -1,2 +1,4 @@
-package com.springBot.collegeEventManagement.entity;public class Users {
+package com.springBot.collegeEventManagement.entity;
+
+public class Users {
 }
